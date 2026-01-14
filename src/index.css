@@ -503,6 +503,18 @@ body {
   letter-spacing: -1px;
 }
 
+.splash-credit {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151;
+  /* Gray 700 */
+  margin-top: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
 @keyframes scaleIn {
   from {
     transform: scale(0.8);

@@ -130,6 +130,10 @@ export function Settings({
                             Reiniciar Todo el Progreso
                         </button>
                     </div>
+
+                    <div style={{ textAlign: 'center', marginTop: '20px', opacity: 0.6, fontSize: '0.8rem' }}>
+                        <p>creado por TINO DIDÁCTICOS</p>
+                    </div>
                 </div>
             </div>
         </div>

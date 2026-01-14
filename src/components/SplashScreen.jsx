@@ -32,6 +32,7 @@ export function SplashScreen({ onFinish }) {
             <div className="splash-content">
                 <img src="/logo-corre-roja.png" alt="Corre Roja Logo" className="splash-logo" />
                 <h1 className="splash-title">Corre Roja</h1>
+                <p className="splash-credit">creado por TINO DIDÁCTICOS</p>
             </div>
         </div>
     );
